@@ -50,8 +50,8 @@
 
 <p>Selected as an excellent scholarship student after conducting field training at a company called UBCNS.</p>
 <p>Completion of Wiset AI online course conducted by Korea Center for Women in Science and Technology</p>
+<p>Participated as a front-end for a follow-up site project to receive letters from XXIT.</p>
 <p>Participated in Founders in Jeju Blockchain Hackathon held by Seoul Economic Daily</p>
-<p>Participate in the frontend of the follow-up site receiving letters from XXIT</p>
 <p>Participated in multiple studies such as Algorithm and React..etc</p>
 <p>Participated in a hackathon held by YouTuber 'Hongdroid'</p>
 <p>Intern at an AI start-up company called Ensyc Co., Ltd.</p>
