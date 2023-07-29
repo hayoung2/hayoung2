@@ -20,8 +20,17 @@
     <br/><br/><br/>
     <b>📖 Activites :</b>
     <br/>
+
+<p>'Dust : Memo' App
+<a href="https://apps.apple.com/us/app/dust-memo/id6453686704"> 
+<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ghost.memo">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<a href="https://transparent-pomelo-dd9.notion.site/a96f88257d794fe1b6cff3646a3e713f?pvs=4">
+<img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
+</p>
     
-<p>'Kpop Wordchain' App release
+<p>'Kpop Wordchain' App
 <a href="https://apps.apple.com/us/app/kpop-wordchain/id6450902487"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.wordchain.wordchain_idols">
@@ -30,7 +39,7 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
-<p>'The Last Leaf' App release
+<p>'The Last Leaf' App
 <a href="https://apps.apple.com/us/app/the-last-leaf-life-countdown/id6450156908"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.lifecountdown.lifecountdown">
@@ -39,7 +48,7 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
-<p>'Nothing To Say' App release
+<p>'Nothing To Say' App
 <a href="https://apps.apple.com/us/app/할말없어요-밸런스게임-mbti-스몰토크/id6449715593"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.hayoung.nothing.nothing_to_say">
