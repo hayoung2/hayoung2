@@ -57,11 +57,8 @@
 <p align="center"> 
   <i> Let's connect! :incoming_envelope: </i>
   <br/>
-  <a href="mailto:contato.dudgkdl2@gmail.com">
+  <a href="mailto:contato.chatgpt092@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dudgkdl2@gmail.com" />
-  </a>
-  <a href="https://blog.naver.com/iliilliiiili">
-    <img align="center" src="https://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/iliilliiiili" />
   </a>
   <a href="https://github.com/hayoung2?tab=followers">
     <img align="center" src="https://img.shields.io/github/followers/hayoung2.svg?style=social&label=Follow&maxAge=2592000" />
