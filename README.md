@@ -20,7 +20,15 @@
     <br/><br/><br/>
     <b>📖 Activites :</b>
     <br/>
-
+<p>'GhostDiary : 유령집사' App
+<a href="https://apps.apple.com/us/app/ghostdiary-mood-daily-diary/id6453941969"> 
+<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ghostflutter.ghostdiary">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<a href="https://transparent-pomelo-dd9.notion.site/GhostDiary-0bfef3a5119f47e3b8f8c0d7dfcbc095?pvs=4">
+<img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
+</p>
+  
 <p>'Dust : Memo' App
 <a href="https://apps.apple.com/us/app/dust-memo/id6453686704"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
