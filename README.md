@@ -28,16 +28,16 @@
 <a href="https://transparent-pomelo-dd9.notion.site/GhostDiary-0bfef3a5119f47e3b8f8c0d7dfcbc095?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
-  
-<p>'Dust : Memo' App
-<a href="https://apps.apple.com/us/app/dust-memo/id6453686704"> 
+
+<p>'Happy cat meme game : 해피캣 게임' App
+<a href=""> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.ghost.memo">
+  <a href="=https://play.google.com/store/apps/details?id=com.happycat.happycat">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
-<a href="https://transparent-pomelo-dd9.notion.site/a96f88257d794fe1b6cff3646a3e713f?pvs=4">
+<a href="https://transparent-pomelo-dd9.notion.site/Happy-Happy-meme-Cat-Game-f58088eeca5c487085310be6332d5c5c?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
-    
+
 <p>'Kpop Wordchain' App
 <a href="https://apps.apple.com/us/app/kpop-wordchain/id6450902487"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
@@ -47,6 +47,15 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
+<p>'Dust : Memo' App
+<a href="https://apps.apple.com/us/app/dust-memo/id6453686704"> 
+<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ghost.memo">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<a href="https://transparent-pomelo-dd9.notion.site/a96f88257d794fe1b6cff3646a3e713f?pvs=4">
+<img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
+</p>
+    
 
 <p>Selected as an excellent scholarship student after conducting field training at a company called UBCNS.</p>
 <p>Completion of Wiset AI online course conducted by Korea Center for Women in Science and Technology</p>
