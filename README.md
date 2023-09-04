@@ -30,7 +30,7 @@
 </p>
 
 <p>'Happy cat meme game : 해피캣 게임' App
-<a href=""> 
+<a href="https://apps.apple.com/us/app/happy-cat-meme-game/id6458645058"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.happycat.happycat">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
