@@ -59,6 +59,26 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
+<p>'Tanghulu : 탕후루 쌓기' App
+<a href=""> 
+<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+  <a href="">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<a href="https://transparent-pomelo-dd9.notion.site/Tanghulu-9cfd447e657c4b9bad4112f26087136a?pvs=4">
+<img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
+</p>
+
+
+<p>'Woodle : 단어게임' App
+<a href="https://apps.apple.com/us/app/woodle/id6471451126"> 
+<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.word.woodle">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<a href="https://transparent-pomelo-dd9.notion.site/Woodle-c0be7243b50f4a92aa7d116c83b5ba9e?pvs=4">
+<img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
+</p>
+
+
 <p>'Dust : Memo' App
 <a href="https://apps.apple.com/us/app/dust-memo/id6453686704"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
