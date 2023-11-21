@@ -29,8 +29,8 @@
 <a href="https://transparent-pomelo-dd9.notion.site/Study-Time-With-Rain-43064fdb41e445f3beb1a7d70b404d75?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
-<p>'BedBugMap : 빈대지도' App
-<a href=""> 
+<p>'BedBugMap : 빈대지도' App (Appstore 8위)
+<a href="https://apps.apple.com/us/app/%EB%B9%88%EB%8C%80-%EC%A7%80%EB%8F%84/id6471968205"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.bedbugmap">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
@@ -68,9 +68,9 @@
 </p>
 
 <p>'Tanghulu : 탕후루 쌓기' App
-<a href=""> 
+<a href="https://apps.apple.com/us/app/tanghulu-game/id6471335478"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
-  <a href="">
+  <a href="https://play.google.com/store/apps/details?id=com.ghost.tanghulu&pli=1">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
 <a href="https://transparent-pomelo-dd9.notion.site/Tanghulu-9cfd447e657c4b9bad4112f26087136a?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
@@ -99,8 +99,6 @@
 <p>'NothingToSay : 할말없어요' App
 <a href="https://apps.apple.com/us/app/할말없어요-밸런스게임-mbti-스몰토크/id6449715593"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.hayoung.nothing.nothing_to_say">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
 <a href="https://transparent-pomelo-dd9.notion.site/bd3f29839c454346ba85b9a4b6f655c3?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
