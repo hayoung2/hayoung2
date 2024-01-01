@@ -118,10 +118,12 @@
 <p>Participated as a front-end for a follow-up site project to receive letters from XXIT.</p>
 <p>Participated in Founders in Jeju Blockchain Hackathon held by Seoul Economic Daily</p>
 <p>Participated in multiple studies such as Algorithm and React..etc</p>
+<p>Flutter App Awards by STARD Grand Prize & Excellence Prize </p>
 <p>Participated in a hackathon held by YouTuber 'Hongdroid'</p>
 <p>Intern at an AI start-up company called Ensyc Co., Ltd.</p>
 <p>Participation in campus Unity study club</p>
 <p>우아한테크코스 2nd Pre-Course progressed.</p>
+
 
   
 <hr/>
