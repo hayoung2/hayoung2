@@ -121,6 +121,7 @@
 <p>Flutter App Awards by STARD Grand Prize & Excellence Prize </p>
 <p>Participated in a hackathon held by YouTuber 'Hongdroid'</p>
 <p>Intern at an AI start-up company called Ensyc Co., Ltd.</p>
+<p>Acquired Industrial Engineer Information Processing</p>
 <p>Participation in campus Unity study club</p>
 <p>우아한테크코스 2nd Pre-Course progressed.</p>
 
