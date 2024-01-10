@@ -56,9 +56,7 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
-
-
-<p>'Kpop Wordchain' App
+<p>'Kpop Wordchain' App (Appstore 단어 11위)
 <a href="https://apps.apple.com/us/app/kpop-wordchain/id6450902487"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.wordchain.wordchain_idols">
@@ -77,7 +75,7 @@
 </p>
 
 
-<p>'Woodle : 단어게임' (Appstore 단어 11위) App
+<p>'Woodle : 단어게임' App
 <a href="https://apps.apple.com/us/app/woodle/id6471451126"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.word.woodle">
