@@ -29,7 +29,7 @@
 <a href="https://transparent-pomelo-dd9.notion.site/Study-Time-With-Rain-43064fdb41e445f3beb1a7d70b404d75?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
-<p>'BedBugMap : 빈대지도' App (Appstore 8위)
+<p>'BedBugMap : 빈대지도' App (Appstore Navi 8위)
 <a href="https://apps.apple.com/us/app/%EB%B9%88%EB%8C%80-%EC%A7%80%EB%8F%84/id6471968205"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.bedbugmap">
@@ -77,7 +77,7 @@
 </p>
 
 
-<p>'Woodle : 단어게임' App
+<p>'Woodle : 단어게임' (Appstore 단어 11위) App
 <a href="https://apps.apple.com/us/app/woodle/id6471451126"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.word.woodle">
