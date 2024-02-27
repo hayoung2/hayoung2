@@ -101,6 +101,13 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
+<p>'LuckyPick : 1일 1조언' App
+<a href="https://play.google.com/store/apps/details?id=com.luckydary.luckydraw">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<a href="https://transparent-pomelo-dd9.notion.site/Lucky-Pick-8392bc5639a14faea64c408cb7da7ffc?pvs=4">
+<img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
+</p>
+
 <p>'The Last Leaf : 마지막잎새' App
 <a href="https://apps.apple.com/us/app/the-last-leaf-life-countdown/id6450156908"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
