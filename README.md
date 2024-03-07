@@ -21,7 +21,7 @@
     <b>📖 Activites :</b>
     <br/>
 
-<p>'Study Time With Rain : 비내리는 공부방' App (android 5+, ios 교육 top 100) 
+<p>'Study Time With Rain : 비내리는 공부방' App (Android 5+, IOS Education Top 100) 
 <a href="https://apps.apple.com/us/app/study-time-with-rain-pomodoro/id6465894484"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.pomodoro.studytimer.studytimer&pli=1">
@@ -56,7 +56,7 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
-<p>'Kpop Wordchain' App (Appstore 단어 11위)
+<p>'Kpop Wordchain' App (Appstore Word 11위)
 <a href="https://apps.apple.com/us/app/kpop-wordchain/id6450902487"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.wordchain.wordchain_idols">
