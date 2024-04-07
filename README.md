@@ -138,7 +138,7 @@
 <p align="center"> 
   <i> Let's connect! :incoming_envelope: </i>
   <br/>
-  <a href="mailto:contato.chatgpt092@gmail.com">
+  <a href="mailto:contato.chatgpt0920@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.chatgpt092@gmail.com" />
   </a>
   <a href="https://github.com/hayoung2?tab=followers">
