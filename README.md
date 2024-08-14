@@ -101,6 +101,13 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
+<p>'졸업토익' App
+<a href="https://apps.apple.com/kr/app/%EC%A1%B8%EC%97%85-%ED%86%A0%EC%9D%B5/id6627346757"> 
+<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.english.toeic_app">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+</p>
+
 <p>'NothingToSay : 할말없어요' App
 <a href="https://apps.apple.com/us/app/할말없어요-밸런스게임-mbti-스몰토크/id6449715593"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
