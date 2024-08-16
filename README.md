@@ -33,7 +33,7 @@
 <a href="https://apps.apple.com/us/app/%EB%B9%88%EB%8C%80-%EC%A7%80%EB%8F%84/id6471968205"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ghost.bedbugmap">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/BedBug-Map-033e7dbb8b444df88aa00d14b5f435e8?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
@@ -41,10 +41,10 @@
 <p>'16 People : 16명 -Mbti AI Test ' App
 <a href="https://apps.apple.com/kr/app/16%EB%AA%85/id6590605167"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.ghost.mbtigem&hl=en_US">
+<a href="https://play.google.com/store/apps/details?id=com.ghost.mbtigem&hl=en_US">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
-  <a href="https://www.youtube.com/watch?v=tHgrUAlNzts">
-<img height="17" src="https://img.shields.io/badge/youtube-17594A?style=for-the-badge&logo=youtube&logoColor=black"></a>
+<a href="https://www.youtube.com/watch?v=tHgrUAlNzts">
+<img height="17" src="https://img.shields.io/badge/youtube-FF3333?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 <p>'Happy cat meme game : 해피캣 게임' App
@@ -88,7 +88,7 @@
 <a href="https://apps.apple.com/us/app/woodle/id6471451126"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.word.woodle">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/Woodle-c0be7243b50f4a92aa7d116c83b5ba9e?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
