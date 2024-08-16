@@ -24,32 +24,34 @@
 <p>'Study Time With Rain : 비내리는 공부방' App (Android 5+, IOS Education Top 100) 
 <a href="https://apps.apple.com/us/app/study-time-with-rain-pomodoro/id6465894484"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.pomodoro.studytimer.studytimer&pli=1">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<a href="https://play.google.com/store/apps/details?id=com.pomodoro.studytimer.studytimer&pli=1">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/Study-Time-With-Rain-43064fdb41e445f3beb1a7d70b404d75?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 <p>'BedBugMap : 빈대지도' App (Appstore Navi 8위)
 <a href="https://apps.apple.com/us/app/%EB%B9%88%EB%8C%80-%EC%A7%80%EB%8F%84/id6471968205"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.ghost.bedbugmap">
+<a href="https://play.google.com/store/apps/details?id=com.ghost.bedbugmap">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
 <a href="https://transparent-pomelo-dd9.notion.site/BedBug-Map-033e7dbb8b444df88aa00d14b5f435e8?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
-<p>'16 People -Mbti AI Test ' App
+<p>'16 People : 16명 -Mbti AI Test ' App
 <a href="https://apps.apple.com/kr/app/16%EB%AA%85/id6590605167"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.mbtigem&hl=en_US">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=tHgrUAlNzts">
+<img height="17" src="https://img.shields.io/badge/youtube-17594A?style=for-the-badge&logo=youtube&logoColor=black"></a>
 </p>
 
 <p>'Happy cat meme game : 해피캣 게임' App
 <a href="https://apps.apple.com/us/app/happy-cat-meme-game/id6458645058"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.happycat.happycat">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<a href="https://play.google.com/store/apps/details?id=com.happycat.happycat">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/Happy-Happy-meme-Cat-Game-f58088eeca5c487085310be6332d5c5c?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
@@ -57,8 +59,8 @@
 <p>'GhostDiary : 유령집사' App
 <a href="https://apps.apple.com/us/app/ghostdiary-mood-daily-diary/id6453941969"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.ghostflutter.ghostdiary">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<a href="https://play.google.com/store/apps/details?id=com.ghostflutter.ghostdiary">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/GhostDiary-0bfef3a5119f47e3b8f8c0d7dfcbc095?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
@@ -66,8 +68,8 @@
 <p>'Kpop Wordchain' App (Appstore Word 11위)
 <a href="https://apps.apple.com/us/app/kpop-wordchain/id6450902487"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.ghost.wordchain.wordchain_idols">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<a href="https://play.google.com/store/apps/details?id=com.ghost.wordchain.wordchain_idols">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/Kpop-a9185b2aff164cbcb3fc2a9bd8bb167c?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
@@ -76,7 +78,7 @@
 <a href="https://apps.apple.com/us/app/tanghulu-game/id6471335478"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.tanghulu&pli=1">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/Tanghulu-9cfd447e657c4b9bad4112f26087136a?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
@@ -96,7 +98,7 @@
 <a href="https://apps.apple.com/us/app/dust-memo/id6453686704"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.memo">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/a96f88257d794fe1b6cff3646a3e713f?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
@@ -105,7 +107,7 @@
 <a href="https://apps.apple.com/kr/app/%EC%A1%B8%EC%97%85-%ED%86%A0%EC%9D%B5/id6627346757"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.english.toeic_app">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
 <p>'NothingToSay : 할말없어요' App
@@ -117,7 +119,7 @@
 
 <p>'LuckyPick : 1일 1조언' App
 <a href="https://play.google.com/store/apps/details?id=com.luckydary.luckydraw">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/Lucky-Pick-8392bc5639a14faea64c408cb7da7ffc?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
@@ -126,7 +128,7 @@
 <a href="https://apps.apple.com/us/app/the-last-leaf-life-countdown/id6450156908"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.lifecountdown.lifecountdown">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/The-Last-Leaf-0bb57d42f16b47d181cc680fc9ed9cdd?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
