@@ -109,6 +109,8 @@
 <p>'NothingToSay : 할말없어요' App
 <a href="https://apps.apple.com/us/app/할말없어요-밸런스게임-mbti-스몰토크/id6449715593"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+    <a href="https://play.google.com/store/apps/details?id=com.hayoung.nothing.nothing_to_say&hl=ko-KR">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://transparent-pomelo-dd9.notion.site/bd3f29839c454346ba85b9a4b6f655c3?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
