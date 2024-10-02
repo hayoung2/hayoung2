@@ -57,7 +57,7 @@
 </p>
 
 <p>'Earthworm with Rain : 비와지렁이:수면소리' App
-<a href=""> 
+<a href="https://apps.apple.com/kr/app/%EB%B9%84%EC%99%80%EC%A7%80%EB%A0%81%EC%9D%B4-%EC%88%98%EB%A9%B4-%EC%86%8C%EB%A6%AC/id6736363162"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
 <a href="https://play.google.com/store/apps/details?id=com.earthworm.rain.earthworm_with_rain">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
