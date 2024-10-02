@@ -56,6 +56,11 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
+<p>'EARTHWORM with RAIN : 비와지렁이:수면소리' App
+<a href=""> 
+<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+<a href="https://play.google.com/store/apps/details?id=com.earthworm.rain.earthworm_with_rain">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 
 <p>'Happy cat meme game : 해피캣 게임' App
 <a href="https://apps.apple.com/us/app/happy-cat-meme-game/id6458645058"> 
