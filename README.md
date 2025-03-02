@@ -104,6 +104,11 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
+<p>'축의금얼마내' App
+<a href="https://apps.apple.com/kr/app/%EC%B6%95%EC%9D%98%EA%B8%88%EC%96%BC%EB%A7%88%EB%82%B4/id6742491202"> 
+<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+<a href="https://play.google.com/store/apps/details?id=com.ceremoney.occasionpay">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
 
 <p>'Dust : Memo' App
 <a href="https://apps.apple.com/us/app/dust-memo/id6453686704"> 
