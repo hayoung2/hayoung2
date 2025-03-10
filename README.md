@@ -152,10 +152,11 @@
 </p>
     
 
-<p>Selected as an excellent scholarship student after conducting field training at a company called UBCNS.</p>
+<p>Selected as an excellent scholarship student after conducting field training at a company called UBCNS</p>
 <p>Completion of Wiset AI online course conducted by Korea Center for Women in Science and Technology</p>
-<p>Participated as a front-end for a follow-up site project to receive letters from XXIT.</p>
+<p>Participated in a follow-up site project to receive letters from XXIT as a front-end</p>
 <p>Participated in Founders in Jeju Blockchain Hackathon held by Seoul Economic Daily</p>
+<p>Participated in 멋쟁이사자처럼 Root Impact AI Hackathon as a front-end</p>
 <p>Participated in multiple studies such as Algorithm and React..etc</p>
 <p>Flutter App Awards by STARD Grand Prize & Excellence Prize </p>
 <p>Participated in a hackathon held by YouTuber 'Hongdroid'</p>
