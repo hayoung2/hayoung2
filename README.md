@@ -29,6 +29,17 @@
 <a href="https://transparent-pomelo-dd9.notion.site/Study-Time-With-Rain-43064fdb41e445f3beb1a7d70b404d75?pvs=4">
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
+
+<p>'404Log : 404사랑 - 짝사랑일기' App
+<a href="https://apps.apple.com/kr/app/404%EC%82%AC%EB%9E%91-%EC%A7%9D%EC%82%AC%EB%9E%91%EC%9D%BC%EA%B8%B0/id6742832199"> 
+<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+<a href="https://play.google.com/store/apps/details?id=com.unrequited.onesided.one_side">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://transparent-pomelo-dd9.notion.site/404-1af3c563527f80ccb0e0e7e39b496969?pvs=4">
+<img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
+</p>
+
+
 <p>'BedBugMap : 빈대지도' App (Appstore Navi 8위)
 <a href="https://apps.apple.com/us/app/%EB%B9%88%EB%8C%80-%EC%A7%80%EB%8F%84/id6471968205"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
