@@ -58,7 +58,7 @@
 <img height="17" src="https://img.shields.io/badge/youtube-FF3333?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<p>'Thrift King : 거지마인드' App
+<p>'Thrift King : 부자마인드' App
 <a href="https://apps.apple.com/kr/app/%EA%B1%B0%EC%A7%80%EB%A7%88%EC%9D%B8%EB%93%9C/id6642648052"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
 <a href="https://play.google.com/store/apps/details?id=com.beggar.saving.beggars">
