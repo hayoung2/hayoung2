@@ -82,7 +82,7 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
-<p>'GhostDiary : 유령집사' App
+<p>'GhostDiary : 유령집사' App (Appstore Lifestyle 128위)
 <a href="https://apps.apple.com/us/app/ghostdiary-mood-daily-diary/id6453941969"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ghostflutter.ghostdiary">
