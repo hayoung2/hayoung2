@@ -22,7 +22,7 @@
     <br/>
 
 <p>'Study Time With Rain : 유령집사의 공부방' App (Android 100K+, IOS Education 8위!!!!!!11) 
-<a href="https://apps.apple.com/us/app/study-time-with-rain-pomodoro/id6465894484"> 
+<a href="https://apps.apple.com/kr/app/study-time-with-rain-pomodoro/id6465894484"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
 <a href="https://play.google.com/store/apps/details?id=com.pomodoro.studytimer.studytimer&pli=1">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
@@ -41,7 +41,7 @@
 
 
 <p>'BedBugMap : 빈대지도' App (Appstore Navi 8위)
-<a href="https://apps.apple.com/us/app/%EB%B9%88%EB%8C%80-%EC%A7%80%EB%8F%84/id6471968205"> 
+<a href="https://apps.apple.com/kr/app/%EB%B9%88%EB%8C%80-%EC%A7%80%EB%8F%84/id6471968205"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ghost.bedbugmap">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
@@ -83,7 +83,7 @@
 </p>
 
 <p>'GhostDiary : 유령집사' App (Appstore Lifestyle 21위)
-<a href="https://apps.apple.com/us/app/ghostdiary-mood-daily-diary/id6453941969"> 
+<a href="https://apps.apple.com/kr/app/ghostdiary-mood-daily-diary/id6453941969"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ghostflutter.ghostdiary">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
@@ -92,7 +92,7 @@
 </p>
 
 <p>'Kpop 끝말잇기' App (Appstore Word 11위)
-<a href="https://apps.apple.com/us/app/kpop-wordchain/id6450902487"> 
+<a href="https://apps.apple.com/kr/app/kpop-wordchain/id6450902487"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ghost.wordchain.wordchain_idols">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
@@ -101,7 +101,7 @@
 </p>
 
 <p>'Tanghulu : 탕후루 쌓기' App
-<a href="https://apps.apple.com/us/app/tanghulu-game/id6471335478"> 
+<a href="https://apps.apple.com/kr/app/tanghulu-game/id6471335478"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.tanghulu&pli=1">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
@@ -138,7 +138,7 @@
 </p>
 
 <p>'NothingToSay : 할말없어요' App
-<a href="https://apps.apple.com/us/app/할말없어요-밸런스게임-mbti-스몰토크/id6449715593"> 
+<a href="https://apps.apple.com/kr/app/할말없어요-밸런스게임-mbti-스몰토크/id6449715593"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
     <a href="https://play.google.com/store/apps/details?id=com.hayoung.nothing.nothing_to_say&hl=ko-KR">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
@@ -154,7 +154,7 @@
 </p>
 
 <p>'The Last Leaf : 마지막잎새' App
-<a href="https://apps.apple.com/us/app/the-last-leaf-life-countdown/id6450156908"> 
+<a href="https://apps.apple.com/kr/app/the-last-leaf-life-countdown/id6450156908"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="https://play.google.com/store/apps/details?id=com.ghost.lifecountdown.lifecountdown">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
