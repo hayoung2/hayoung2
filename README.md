@@ -39,6 +39,14 @@
 <img height="17" src="https://img.shields.io/badge/notion-F1C93B?style=for-the-badge&logo=notion&logoColor=black"></a>
 </p>
 
+<p>'Ghost Jump Rope: 유령줄넘기' App
+<a href="https://apps.apple.com/kr/app/%EC%9C%A0%EB%A0%B9%EC%A4%84%EB%84%98%EA%B8%B0/id6757285076"> 
+<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
+<a href="https://play.google.com/store/apps/details?id=com.ghost.jump_rope&hl=ko">
+<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://transparent-pomelo-dd9.notion.site/404-1af3c563527f80ccb0e0e7e39b496969?pvs=4">
+</p>
+
 
 <p>'BedBugMap : 빈대지도' App (Appstore Navi 8위)
 <a href="https://apps.apple.com/kr/app/%EB%B9%88%EB%8C%80-%EC%A7%80%EB%8F%84/id6471968205"> 
